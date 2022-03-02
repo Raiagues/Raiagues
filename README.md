@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emilly Raiane</h1>
-<h3 align="center">I'm a brazilian Aerospace Engineering student and I want to learn about software development and artificial intelligence applied in the aerospace industry</h3>
+
 
 - 🌱 I’m currently learning **Python, AI, HTML and CSS**
 
