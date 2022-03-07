@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emilly Raiane</h1>
 
 
-- 🌱 I’m currently learning **Python, AI, HTML and CSS**
+- 🌱 I’m currently learning **Python, HTML and CSS**
 
 - 📫 How to reach me **emilyrayannerodrigues@gmail.com**
 
