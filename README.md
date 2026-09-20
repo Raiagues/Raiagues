@@ -1,15 +1,11 @@
 <h1 align="center">Emilly Raiane Rodrigues</h1>
 
 <h3 align="center">
-Aerospace Engineering • Embedded Systems • Space Software • AI
+Aerospace Engineering • Embedded Systems
 </h3>
 
 <p align="center">
 Brazilian aerospace engineering student pursuing a double degree in Embedded Systems and Connected Devices in France.
-</p>
-
-<p align="center">
-Focused on aerospace software, embedded systems, artificial intelligence and autonomous systems.
 </p>
 
 ---
@@ -18,19 +14,7 @@ Focused on aerospace software, embedded systems, artificial intelligence and aut
 
 - Aerospace Engineering student in Brazil  
 - Double degree in Embedded Systems and Connected Devices in France  
-- Interested in flight software, embedded systems, AI and robotics  
-- Working on telemetry systems, intelligent aerospace software and distributed architectures  
-- Passionate about complex systems engineering and multidisciplinary technologies  
-
----
-
-## Current Projects
-
-- AI assistant integrated with telemetry systems
-- Aerospace telemetry dashboard
-- Embedded systems for sensor integration
-- Flight software architectures based on NASA cFS
-- Intelligent and autonomous aerospace systems
+- Interested in flight software and embedded systems
 
 ---
 
