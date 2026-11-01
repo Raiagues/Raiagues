@@ -1,15 +1,3 @@
-<h1 align="center">Emilly Raiane Rodrigues</h1>
-
-<h3 align="center">
-Aerospace Engineering • Embedded Systems
-</h3>
-
-<p align="center">
-Brazilian aerospace engineering student pursuing a double degree in Embedded Systems and Connected Devices in France.
-</p>
-
----
-
 ## About Me
 
 - Aerospace Engineering student in Brazil  
@@ -58,26 +46,4 @@ Brazilian aerospace engineering student pursuing a double degree in Embedded Sys
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
 </a>
 
-</p>
-
----
-
-## Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/emilly-raiane-/">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-</a>
-
-<a href="https://instagram.com/aero.study/">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-Exploring the intersection between aerospace engineering, embedded systems and intelligent software.
 </p>
